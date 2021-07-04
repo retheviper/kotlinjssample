@@ -1,6 +1,6 @@
-package component
+package com.retheviper.kotlinjssample.component
 
-import data.Description
+import com.retheviper.kotlinjssample.data.Description
 import react.RBuilder
 import react.RComponent
 import react.RProps

@@ -1,7 +1,7 @@
-package extension
+package com.retheviper.kotlinjssample.extension
 
-import component.AppDescription
-import component.AppDescriptionProps
+import com.retheviper.kotlinjssample.component.AppDescription
+import com.retheviper.kotlinjssample.component.AppDescriptionProps
 import react.RBuilder
 import react.ReactElement
 

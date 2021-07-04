@@ -1,4 +1,4 @@
-package data
+package com.retheviper.kotlinjssample.data
 
 data class Description(
     val id: Int,
